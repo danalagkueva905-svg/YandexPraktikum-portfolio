@@ -14,6 +14,10 @@
 - **Инструменты:** Jupyter Notebook, Git, Google Colab
 
 
+## 📁 Проекты (полное описание)
+
+### 🎯 [Подробное описание всех проектов в Notion →](https://www.notion.so/f7f60eb767ae45eebf48f96bf90b32b0?v=7440a569fddc44c7a2902f8924404ec9&source=copy_link)  
+
 
 ## 📫 Контакты
 - **Email:** lagkueva.dana@yandex.ru
